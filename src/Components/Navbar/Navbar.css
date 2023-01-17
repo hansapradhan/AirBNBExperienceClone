@@ -10,10 +10,12 @@ nav{
     
 }
 
-img{
+#NavbarImage{
     position: absolute;
     width: 82.02px;
     height: 25.35px;
     left: 30px;
     top: 22px;
+    align-content: center;
 }
+

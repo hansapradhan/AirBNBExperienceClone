@@ -5,7 +5,7 @@ import "./Navbar.css"
 export default function Navbar() {
   return (
     <nav>
-      <img src={Airbnb} alt="Airbnb" />
+      <img id='NavbarImage' src={Airbnb} alt="Airbnb" />
     </nav>
   )
 }
