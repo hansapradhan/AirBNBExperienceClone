@@ -31,9 +31,11 @@ function App() {
   return (
     <div>
     <Navbar />
-    <Hero />
-    {/* <Card img ="Katie.png" rating = "5.0" reviewCount={6} country="USA" title="Life Lessons with Katie Zaferes" price={136}/> */}
-    {Cardlist}
+    <Hero /> 
+    <section className="cards-list">
+        {Cardlist}
+    </section>
+    
     </div>
   );
 }
