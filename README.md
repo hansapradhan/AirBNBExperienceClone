@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Airbnb Experience Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://user-images.githubusercontent.com/99111208/165717547-523f6368-556b-41b6-8f6d-e72b520591c4.png">
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+Develop an app with static and reusable data-driven React components to practice the setup of a React project. This project was created following a tutorial from Scrimba by Bob Ziroll.
 
-### `npm start`
+## Structure
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The app consists of three components:
+* NavBar
+* Hero (hardcoded)
+* Card (reusable)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://user-images.githubusercontent.com/99111208/165701436-eac9c5f4-794a-49c2-bac7-fef1784f1f28.png">
 
-### `npm test`
+## Used Tools and Tech
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. Create React App - to utilize toolchain
 
-### `npm run build`
+utilize Toolchain functionality of package manager, bundler and compiler. For installation details check out:
+https://github.com/facebook/create-react-app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2. Figma - to create design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://www.figma.com/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3. Scrimba course "Learn React for free" by Bob Ziroll 
 
-### `npm run eject`
+https://scrimba.com/learn/learnreact/
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Learnings
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* React Syntax
+* Process of using Create React App
+* using map to access data
+* key prop
+* Props: receiving props in a component, destructuring props, passing in non-string props, pass object as props vs. spread object as props
