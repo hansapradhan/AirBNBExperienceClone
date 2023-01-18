@@ -1,0 +1,32 @@
+
+.card {
+    width: 175px;
+    font-size: 12px;
+}
+.CardImage{
+    /* image 12 */
+        width: 176px;
+        height: 235px;
+        left: 37px;
+        top: 521px;
+        border-radius: 9px;
+}
+
+.StarImage{
+    width: 14px;
+    height: 14px;
+    left: 230px;
+    top: 765px;
+    border-radius: 0.5px;
+}
+.CardStats{
+    display: flex;
+    align-items: center;
+}
+.Grey{
+   color: #918E9B; 
+}
+
+.section{
+    padding: 20px;
+}
