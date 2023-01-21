@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar/Navbar';
 import Hero from './Components/Hero/Hero';
 import Card from './Components/Card/Card';
 import ExperienceData from './data';
+import Footer from './Components/Footer/Footer';
 /*
 Challenge: Pass props to the Card component and display that data
 
@@ -35,6 +36,8 @@ function App() {
     <section className="cards-list">
         {Cardlist}
     </section>
+
+    <Footer/>
     
     </div>
   );
