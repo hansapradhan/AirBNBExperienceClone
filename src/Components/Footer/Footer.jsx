@@ -56,7 +56,6 @@ export default function Footer() {
           </ul>
         </span>
         <span className="footer-bottom">
-
           <p>
             <span>
               <Globe className="globe" />
