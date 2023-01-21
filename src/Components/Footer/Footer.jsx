@@ -10,14 +10,14 @@ export default function Footer() {
         <span>
           <h2>About</h2>
           <ul>
-            <li>How Rozbnb works</li>
+            <li>How Airbnb works</li>
             <li>Newsroom</li>
-            <li>Rozbnb 2021</li>
+            <li>Airbnb 2021</li>
             <li>Investors</li>
-            <li>Rozbnb Plus</li>
-            <li>Rozbnb Luxe</li>
+            <li>Airbnb Plus</li>
+            <li>Airbnb Luxe</li>
             <li className="lg-hidden">HotelTonight</li>
-            <li className="lg-hidden">Rozbnb for Work</li>
+            <li className="lg-hidden">Airbnb for Work</li>
             <li className="lg-hidden">Made possible by Hosts</li>
             <li className="lg-hidden">Careers</li>
             <li className="lg-hidden">Founders&apos; Letter</li>
@@ -28,10 +28,10 @@ export default function Footer() {
           <ul>
             <li>Diversity & Belonging</li>
             <li>Accessibility</li>
-            <li>Rozbnb Associates</li>
+            <li>Airbnb Associates</li>
             <li>Frontline Stays</li>
             <li>Guest Referrals</li>
-            <li>Rozbnb.org</li>
+            <li>Airbnb.org</li>
           </ul>
         </span>
         <span>
@@ -77,8 +77,8 @@ export default function Footer() {
           </p>
           <p>
             &copy; 2023{" "}
-            <a href="https://rozen-portfolio.web.app/" target="_blank" rel="noreferrer">
-              Hansa
+            <a href="https://www.linkedin.com/in/hansapradhan/" target="_blank" rel="noreferrer">
+              Hansa Pradhan
             </a>
           </p>
         </span>
