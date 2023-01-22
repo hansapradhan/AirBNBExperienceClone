@@ -7,10 +7,10 @@ export default function Card(props) {
   return (
     <section>
             <div className="experiencecard" >
-                <img src={`../../images/${props.img}`} className="card-img-top CardImage" alt="" />
+                <img src={`../images/${props.img}`} className="card-img-top CardImage" alt="" />
                 <div className="card-body">
                     <div className="CardStats">
-                        <img src={`../../images/Star.png`} className="StarImage" alt="Star" />
+                        <img src={`../images/Star.png`} className="StarImage" alt="Star" />
                         <span className='Grey'>{props.rating}</span>
                         <span className='Grey'>({props.reviewCount}) • </span>
                         <span className='Grey'>{props.country}</span>
