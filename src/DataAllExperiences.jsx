@@ -1,4 +1,4 @@
-export default [
+ const DataAllExperience =  [
     {
         id: 1,
         title: "Learn cooking with Alan Zelensky",
@@ -157,3 +157,5 @@ export default [
         openSpots: 66,
     }
 ]
+
+export default DataAllExperience;

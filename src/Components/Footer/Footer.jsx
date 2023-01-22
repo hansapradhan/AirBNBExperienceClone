@@ -1,5 +1,5 @@
 //import styled from "styled-components";
-import { Globe, DollarSign, Facebook, Twitter, Instagram } from "react-feather";
+import { Globe,  Facebook, Twitter, Instagram } from "react-feather";
 import "./Footer.css";
 
 
