@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 export default function Filter() {
   return (
     <div>
-        <section className='hero'>
+        <section className='filter'>
             <button className="button-60" role="button">Price &nbsp; <FontAwesomeIcon icon={faAngleDown}  /></button> &nbsp;
             <button className="button-60" role="button">Language offered &nbsp; <FontAwesomeIcon icon={faAngleDown}  /></button> &nbsp;
             <button className="button-60 " role="button">Time of day &nbsp; <FontAwesomeIcon icon={faAngleDown}  /></button>  <span className='verticalLine'></span>

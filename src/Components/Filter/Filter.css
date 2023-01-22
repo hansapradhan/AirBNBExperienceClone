@@ -8,6 +8,10 @@
     margin-left: 8px !important;
     border-left: 1px #DDDDDD solid !important;
 }
+.filter{
+  padding-top:50px;
+  align-self: center;
+}
 
 .button-60 {
   align-items: center;

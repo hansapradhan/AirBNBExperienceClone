@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -48,8 +47,9 @@ body {
 
 .cards-list {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 20px;
   overflow-x: auto;
+  max-width: 1200px;
 }
 
