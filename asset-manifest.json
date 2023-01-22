@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AirBNBExperienceClone/static/css/main.51114f57.css",
-    "main.js": "/AirBNBExperienceClone/static/js/main.759773c5.js",
+    "main.js": "/AirBNBExperienceClone/static/js/main.f62bcce4.js",
     "static/js/787.13879a61.chunk.js": "/AirBNBExperienceClone/static/js/787.13879a61.chunk.js",
     "index.html": "/AirBNBExperienceClone/index.html",
     "main.51114f57.css.map": "/AirBNBExperienceClone/static/css/main.51114f57.css.map",
-    "main.759773c5.js.map": "/AirBNBExperienceClone/static/js/main.759773c5.js.map",
+    "main.f62bcce4.js.map": "/AirBNBExperienceClone/static/js/main.f62bcce4.js.map",
     "787.13879a61.chunk.js.map": "/AirBNBExperienceClone/static/js/787.13879a61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51114f57.css",
-    "static/js/main.759773c5.js"
+    "static/js/main.f62bcce4.js"
   ]
 }
