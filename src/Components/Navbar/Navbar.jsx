@@ -12,7 +12,7 @@ export default function NavbarComponent() {
     <Navbar > 
       <Container>
         {/* Alternatively you can use from:https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg */}
-      <Navbar.Brand href="#home"><img id='NavbarImage'   layout="fill" objectFit="contain" objectPosition="left" src={`../../images/Airbnb.png`} alt="Airbnb" /></Navbar.Brand>
+      <Navbar.Brand href="#home"><img id='NavbarImage'   layout="fill" objectFit="contain" objectPosition="left" src={`./images/Airbnb.png`} alt="Airbnb" /></Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text>

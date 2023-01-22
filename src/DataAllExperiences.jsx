@@ -121,7 +121,7 @@
         title: "Explore the beautiful art exhibitions",
         description: "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
         price: 80,
-        coverImg: "ArtGallery.jpg",
+        coverImg: "Artgallery.jpg",
         stats: {
             rating: 4.3,
             reviewCount: 48
