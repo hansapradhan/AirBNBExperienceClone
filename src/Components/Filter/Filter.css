@@ -1,17 +1,27 @@
 /* CSS */
+  
+.verticalLine {
+    display: inline !important;
+    height: 20px !important;
+    width: 0px !important;
+    margin-right: 16px !important;
+    margin-left: 8px !important;
+    border-left: 1px #DDDDDD solid !important;
+}
+
 .button-60 {
   align-items: center;
   appearance: none;
   background-color: #fff;
-  border: 1px solid #dbdbdb;
-  border-radius: .375em;
+  border: 1px solid #DDDD;
+  border-radius: 30px;
   box-shadow: none;
   box-sizing: border-box;
-  color: #363636;
+  color: #222222;
   cursor: pointer;
   display: inline-flex;
-  font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 1rem;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 0.6rem;
   height: 2.5em;
   justify-content: center;
   line-height: 1.5;
@@ -23,6 +33,8 @@
   touch-action: manipulation;
   vertical-align: top;
   white-space: nowrap;
+  cursor: pointer !important;
+
 }
 
 .button-60:active {
@@ -36,7 +48,7 @@
 }
 
 .button-60:hover {
-  border-color: #b5b5b5;
+  border-color: #000000;
 }
 
 .button-60:focus:not(:active) {

@@ -48,18 +48,18 @@ header{
   display: inline-flex;
   flex: 1 1 auto;
   font-family: Inter,sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
   justify-content: center;
   line-height: 1;
-  margin: 0;
+  margin: 5px;
   outline: none;
-  padding: 1rem 1.2rem;
+  padding: 1rem 1rem;
   text-align: center;
   text-decoration: none;
   transition: box-shadow .2s,-webkit-box-shadow .2s;
   white-space: nowrap;
-
+  color: #717171;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -71,14 +71,21 @@ header{
 
 /* CSS for button-81*/
 .button-81 {
-  background-color: #fff;
-  border: 0 solid #e2e8f0;
-  border-radius: 1.5rem;
+    background: transparent;
+    cursor: pointer;
+    margin: 10px;
+    text-align: inherit;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 21px;
+    transition: box-shadow 0.2s ease;
+
+  border-radius: 21px;
   box-sizing: border-box;
   color: #0d172a;
   cursor: pointer;
   display: inline-block;
-  font-size: 1rem;
+  font-size: 0.5rem;
   font-weight: 600;
   line-height: 1;
   text-align: center;
@@ -98,7 +105,7 @@ header{
 
 @media (min-width: 768px) {
   .button-81 {
-    font-size: 0.7rem;
+    font-size: 0.5rem;
     padding: 0.5rem 1rem;
   }
 }

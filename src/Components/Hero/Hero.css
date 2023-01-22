@@ -6,10 +6,8 @@ section{
     align-self: center;
 }
 .HeroImage{
-    align-self: center;
     width: 100%;
-    padding-left: 50px;
-    padding-right: 50px;
+
 }
 .HeroHeader{
     margin-bottom: 16px;
