@@ -1,15 +1,16 @@
 # Airbnb Experience Clone
-
-<img src="https://user-images.githubusercontent.com/99111208/165717547-523f6368-556b-41b6-8f6d-e72b520591c4.png">
+## Link to site: 
+https://hansapradhan.github.io/AirBNBExperienceClone
 
 ## Objective
 
-Develop an app with static and reusable data-driven React components to practice the setup of a React project. This project was created following a tutorial from Scrimba by Bob Ziroll.
+Develop an app with static and reusable data-driven React components to practice the setup of a React project. This project was created following a tutorial from Scrimba by Bob Ziroll. I also tried to mimic the real Airbnb experience page so added a few more stylings.
 
 ## Structure
 
 The app consists of three components:
 * NavBar
+* Filter (hardcoded)
 * Hero (hardcoded)
 * Card (reusable)
 
