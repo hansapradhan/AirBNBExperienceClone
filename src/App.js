@@ -6,19 +6,10 @@ import ExperienceData from './data';
 import AllExperienceData from './DataAllExperiences';
 import Footer from './Components/Footer/Footer';
 import Filter from './Components/Filter/Filter';
-/*
-Challenge: Pass props to the Card component and display that data
 
-- img ("katie-zaferes.png")
-- rating ("5.0")
-- reviewCount (6)
-- country (Whatever you want)
-- title ("Life Lessons with Katie Zaferes")
-- price (136)
-
-*/
+// {...item}
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals
   const Cardlist = ExperienceData.map((item) => {
-    //  <Card img ={data.coverImg} rating = {data.stat.rating} reviewCount= {data.stat.reviewCount} country={data.location} title={data.title} price={data.price}/>
     return (<Card 
                 img={item.coverImg}
                 rating={item.stats.rating}
@@ -31,7 +22,6 @@ Challenge: Pass props to the Card component and display that data
   })
 
   const AllExperiencesCardlist = AllExperienceData.map((item) => {
-    //  <Card img ={data.coverImg} rating = {data.stat.rating} reviewCount= {data.stat.reviewCount} country={data.location} title={data.title} price={data.price}/>
     return (<Card 
                 img={item.coverImg}
                 rating={item.stats.rating}
