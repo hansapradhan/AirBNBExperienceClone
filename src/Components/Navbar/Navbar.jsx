@@ -16,9 +16,9 @@ export default function NavbarComponent() {
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text>
-          <button class="button-81" >Airbnb your home</button>
-          <button class="button-81" > <Globe className="globe" /></button>
-          <button class="button-35" > <FontAwesomeIcon icon={faBars}  />  &nbsp; &nbsp;<FontAwesomeIcon icon={faUserCircle} /></button>
+          <button className="button-81" >Airbnb your home</button>
+          <button className="button-81" > <Globe className="globe" /></button>
+          <button className="button-35" > <FontAwesomeIcon icon={faBars}  />  &nbsp; &nbsp;<FontAwesomeIcon icon={faUserCircle} /></button>
         </Navbar.Text>
       </Navbar.Collapse>
     </Container>
