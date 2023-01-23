@@ -2,6 +2,7 @@
 .experiencecard {
     width: 175px;
     font-size: 12px;
+    position: relative;
 }
 .CardImage{
     /* image 12 */
@@ -29,4 +30,14 @@
 
 .section{
     padding: 20px;
+}
+
+.card--badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
 }

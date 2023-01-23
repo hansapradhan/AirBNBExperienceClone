@@ -26,6 +26,7 @@ Challenge: Pass props to the Card component and display that data
                 country={item.location}
                 title={item.title}
                 price={item.price}
+                openSpots={item.openSpots}
             />)
   })
 
@@ -38,6 +39,7 @@ Challenge: Pass props to the Card component and display that data
                 country={item.location}
                 title={item.title}
                 price={item.price}
+                openSpots={item.openSpots}
             />)
   })
 function App() {

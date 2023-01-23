@@ -75,7 +75,7 @@
             reviewCount: 38
         },
         location: "France",
-        openSpots: 40,
+        openSpots: 0,
     },
     {
         id: 7,
@@ -114,7 +114,7 @@
             reviewCount: 27
         },
         location: "London",
-        openSpots: 20,
+        openSpots: 0,
     },
     {
         id: 10,
