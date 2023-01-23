@@ -25,7 +25,7 @@ https://github.com/facebook/create-react-app
 
 ### 2. Figma - to create design
 
-https://www.figma.com/
+https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1&t=YmaKo53mZDTFDJC7-0
 
 ### 3. Scrimba course "Learn React for free" by Bob Ziroll 
 
